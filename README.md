@@ -26,7 +26,7 @@ Front-end
 deploy
 ```
 * AWS EC2 (Ubuntu 18.04 LTS)
-
+```
 
 
 
