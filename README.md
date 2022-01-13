@@ -41,6 +41,10 @@ deploy
 - 와이어 프레임
 #### 로그인 화면
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyytRm%2FbtrqmIzEAyM%2FIo8smve2nilhaew5mjfFN1%2Fimg.png">
-#### 회원가입 화면
-#### 메인 화면
+#### 회원가입 화면 / 메인페이지
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fd9UNn5%2Fbtrqgaqqi5n%2F9ldGiPkD4yRh2jl1DylkmK%2Fimg.png">
 #### 세부 화면
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc5fRsK%2FbtrqirkWvQY%2Fi5qZe7TL4vYntRCb6bduIK%2Fimg.png">
+
+
+### 프로젝트 결과
