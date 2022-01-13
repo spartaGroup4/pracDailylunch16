@@ -27,6 +27,9 @@ deploy
 ```
 * AWS EC2 (Ubuntu 18.04 LTS)
 
+
+
+
 ### 팀원 목록
 * 박가현
 * 이승민
